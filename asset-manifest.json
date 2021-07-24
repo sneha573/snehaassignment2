@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vacassignment2/static/css/main.039049ae.chunk.css",
-    "main.js": "/vacassignment2/static/js/main.32bde1c8.chunk.js",
-    "main.js.map": "/vacassignment2/static/js/main.32bde1c8.chunk.js.map",
-    "runtime-main.js": "/vacassignment2/static/js/runtime-main.655b5666.js",
-    "runtime-main.js.map": "/vacassignment2/static/js/runtime-main.655b5666.js.map",
-    "static/js/2.e1be2416.chunk.js": "/vacassignment2/static/js/2.e1be2416.chunk.js",
-    "static/js/2.e1be2416.chunk.js.map": "/vacassignment2/static/js/2.e1be2416.chunk.js.map",
-    "static/js/3.12712905.chunk.js": "/vacassignment2/static/js/3.12712905.chunk.js",
-    "static/js/3.12712905.chunk.js.map": "/vacassignment2/static/js/3.12712905.chunk.js.map",
-    "index.html": "/vacassignment2/index.html",
-    "static/css/main.039049ae.chunk.css.map": "/vacassignment2/static/css/main.039049ae.chunk.css.map",
-    "static/js/2.e1be2416.chunk.js.LICENSE.txt": "/vacassignment2/static/js/2.e1be2416.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vacassignment2/static/media/logo.6ce24c58.svg"
+    "main.css": "/assignment2vac/static/css/main.039049ae.chunk.css",
+    "main.js": "/assignment2vac/static/js/main.32bde1c8.chunk.js",
+    "main.js.map": "/assignment2vac/static/js/main.32bde1c8.chunk.js.map",
+    "runtime-main.js": "/assignment2vac/static/js/runtime-main.a5dd69aa.js",
+    "runtime-main.js.map": "/assignment2vac/static/js/runtime-main.a5dd69aa.js.map",
+    "static/js/2.e1be2416.chunk.js": "/assignment2vac/static/js/2.e1be2416.chunk.js",
+    "static/js/2.e1be2416.chunk.js.map": "/assignment2vac/static/js/2.e1be2416.chunk.js.map",
+    "static/js/3.12712905.chunk.js": "/assignment2vac/static/js/3.12712905.chunk.js",
+    "static/js/3.12712905.chunk.js.map": "/assignment2vac/static/js/3.12712905.chunk.js.map",
+    "index.html": "/assignment2vac/index.html",
+    "static/css/main.039049ae.chunk.css.map": "/assignment2vac/static/css/main.039049ae.chunk.css.map",
+    "static/js/2.e1be2416.chunk.js.LICENSE.txt": "/assignment2vac/static/js/2.e1be2416.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/assignment2vac/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.655b5666.js",
+    "static/js/runtime-main.a5dd69aa.js",
     "static/js/2.e1be2416.chunk.js",
     "static/css/main.039049ae.chunk.css",
     "static/js/main.32bde1c8.chunk.js"
