@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/snehaassignment2/static/css/main.039049ae.chunk.css",
-    "main.js": "/snehaassignment2/static/js/main.32bde1c8.chunk.js",
-    "main.js.map": "/snehaassignment2/static/js/main.32bde1c8.chunk.js.map",
-    "runtime-main.js": "/snehaassignment2/static/js/runtime-main.0379ba1d.js",
-    "runtime-main.js.map": "/snehaassignment2/static/js/runtime-main.0379ba1d.js.map",
-    "static/js/2.e1be2416.chunk.js": "/snehaassignment2/static/js/2.e1be2416.chunk.js",
-    "static/js/2.e1be2416.chunk.js.map": "/snehaassignment2/static/js/2.e1be2416.chunk.js.map",
-    "static/js/3.12712905.chunk.js": "/snehaassignment2/static/js/3.12712905.chunk.js",
-    "static/js/3.12712905.chunk.js.map": "/snehaassignment2/static/js/3.12712905.chunk.js.map",
-    "index.html": "/snehaassignment2/index.html",
-    "static/css/main.039049ae.chunk.css.map": "/snehaassignment2/static/css/main.039049ae.chunk.css.map",
-    "static/js/2.e1be2416.chunk.js.LICENSE.txt": "/snehaassignment2/static/js/2.e1be2416.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/snehaassignment2/static/media/logo.6ce24c58.svg"
+    "main.css": "/vacassignment2/static/css/main.039049ae.chunk.css",
+    "main.js": "/vacassignment2/static/js/main.32bde1c8.chunk.js",
+    "main.js.map": "/vacassignment2/static/js/main.32bde1c8.chunk.js.map",
+    "runtime-main.js": "/vacassignment2/static/js/runtime-main.655b5666.js",
+    "runtime-main.js.map": "/vacassignment2/static/js/runtime-main.655b5666.js.map",
+    "static/js/2.e1be2416.chunk.js": "/vacassignment2/static/js/2.e1be2416.chunk.js",
+    "static/js/2.e1be2416.chunk.js.map": "/vacassignment2/static/js/2.e1be2416.chunk.js.map",
+    "static/js/3.12712905.chunk.js": "/vacassignment2/static/js/3.12712905.chunk.js",
+    "static/js/3.12712905.chunk.js.map": "/vacassignment2/static/js/3.12712905.chunk.js.map",
+    "index.html": "/vacassignment2/index.html",
+    "static/css/main.039049ae.chunk.css.map": "/vacassignment2/static/css/main.039049ae.chunk.css.map",
+    "static/js/2.e1be2416.chunk.js.LICENSE.txt": "/vacassignment2/static/js/2.e1be2416.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vacassignment2/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0379ba1d.js",
+    "static/js/runtime-main.655b5666.js",
     "static/js/2.e1be2416.chunk.js",
     "static/css/main.039049ae.chunk.css",
     "static/js/main.32bde1c8.chunk.js"
